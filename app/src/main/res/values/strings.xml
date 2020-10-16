@@ -1,3 +1,10 @@
+<!--
+Student Name: Geerthan Kanthasamy
+Student ID: 301033918
+Section Number: 002
+-->
 <resources>
     <string name="app_name">GeerthanLab2</string>
+    <string name="enterButton">Enter</string>
+    <string name="logoDescription">company logo</string>
 </resources>
