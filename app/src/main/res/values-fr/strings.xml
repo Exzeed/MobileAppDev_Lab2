@@ -5,20 +5,20 @@ Section Number: 002
 -->
 <resources>
     <string name="app_name">GeerthanLab2</string>
-    <string name="enterButton">Enter</string>
-    <string name="logoDescription">company logo</string>
-    <string name="optionsApartment">Apartment</string>
-    <string name="optionsDetached">Detached Home</string>
-    <string name="optionsSemiDetached">Semi-Detached Home</string>
-    <string name="optionsCondo">Condominium Apartment</string>
-    <string name="optionsTownHouse">Town House</string>
+    <string name="enterButton">Entre</string>
+    <string name="logoDescription">logo d'entreprise</string>
+    <string name="optionsApartment">Appartement</string>
+    <string name="optionsDetached">Maison individuelle</string>
+    <string name="optionsSemiDetached">Maison jumelée</string>
+    <string name="optionsCondo">Appartement en copropriété</string>
+    <string name="optionsTownHouse">Maison de ville</string>
     <string name="checkOutButton">Check-Out</string>
     <string name="address1">Address: 111 Somewhere Ave.</string>
     <string name="price1">Price: $100</string>
     <string name="address2">Address: 222 Somewhere Ave.</string>
     <string name="price2">Price: $150</string>
-    <string name="address3">Address: 333 Somewhere Ave.</string>
     <string name="price3">Price: $200</string>
+    <string name="address3">Address: 333 Somewhere Ave.</string>
     <string name="address4">Address: 444 Somewhere Ave.</string>
     <string name="price4">Price: $250</string>
 </resources>

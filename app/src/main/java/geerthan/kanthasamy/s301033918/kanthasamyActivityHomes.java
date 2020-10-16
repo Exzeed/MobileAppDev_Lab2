@@ -1,11 +1,20 @@
+/*
+ * Student Name: Geerthan Kanthasamy
+ * Student ID: 301033918
+ * Section Number: 002
+ */
+
 package geerthan.kanthasamy.s301033918;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.Button;
 import android.widget.Toast;
 
 public class kanthasamyActivityHomes extends AppCompatActivity {
@@ -33,6 +42,16 @@ public class kanthasamyActivityHomes extends AppCompatActivity {
 
             case R.id.geerthanDetached:
                 setContentView(R.layout.detached_layout);
+
+                Button btnCheckout = (Button) findViewById(R.id.geerthanCheckoutBtn);
+                btnCheckout.setOnClickListener(new View.OnClickListener() //cannot resolve symbol error
+                {
+                    public void onClick(View v)
+                    {
+                        Intent intent = new Intent(kanthasamyActivityHomes.this, kanthasamyActivityCheckout.class);
+                        startActivity(intent);
+                    }
+                });
                 break;
 
             case R.id.geerthanSemi:
