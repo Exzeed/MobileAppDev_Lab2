@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/geerthanApartment"
+        android:title="@string/optionsApartment">
+
+    </item>
+    <item
+        android:id="@+id/geerthanDetached"
+        android:title="@string/optionsDetached">
+
+    </item>
+    <item
+        android:id="@+id/geerthanSemi"
+        android:title="@string/optionsSemiDetached">
+
+    </item>
+
+    <item
+        android:id="@+id/geerthanCondo"
+        android:title="@string/optionsCondo">
+
+    </item>
+
+    <item
+        android:id="@+id/geerthanTown"
+        android:title="@string/optionsTownHouse">
+
+    </item>
+
+</menu>

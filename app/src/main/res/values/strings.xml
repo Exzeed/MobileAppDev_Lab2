@@ -7,4 +7,10 @@ Section Number: 002
     <string name="app_name">GeerthanLab2</string>
     <string name="enterButton">Enter</string>
     <string name="logoDescription">company logo</string>
+    <string name="optionsApartment">Apartment</string>
+    <string name="optionsDetached">Detached Home</string>
+    <string name="optionsSemiDetached">Semi-Detached Home</string>
+    <string name="optionsCondo">Condominium Apartment</string>
+    <string name="optionsTownHouse">Town House</string>
+    <string name="checkOutButton">Check-Out</string>
 </resources>
